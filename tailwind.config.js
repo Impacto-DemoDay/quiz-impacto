@@ -8,7 +8,7 @@ export default {
     extend: {
       colors: {
         'orange': "#D37116",
-        'blue': "#001858",
+        'dark-blue': "#001858",
         'white': "#ffffff"
       },
       fontFamily: {
