@@ -1,0 +1,102 @@
+[
+  {
+    "question": "1 - O que a solidariedade representa?",
+    "options": [
+      "A busca por interesses pessoais",
+      "A cooperação e apoio mútuo",
+      "A indiferença em relação aos outros",
+      "A competição desenfreada"
+    ],
+    "answer": "A cooperação e apoio mútuo"
+  },
+  {
+    "question": "2 - Qual é a principal característica das ONGs",
+    "options": [
+      "Atuam com fins lucrativos",
+      "São financiadas pelo governo",
+      "Promovem causas sociais e não têm fins lucrativos",
+      "Realizam pesquisas científicas"
+    ],
+    "answer": "Promovem causas sociais e não têm fins lucrativos"
+  },
+  {
+    "question":"3 - Qual é a função principal de um instituto?",
+    "options": [
+      "Desenvolver pesquisas e projetos em áreas específicas",
+      "Oferecer cursos universitários",
+      "Realizar eventos culturais",
+      "Fornecer serviços de saúde"
+    ],
+    "answer":"Desenvolver pesquisas e projetos em áreas específicas"
+  },
+  {
+    "question":"4 - Qual é o tipo de doação que ocorre após a morte de uma pessoa e envolve a transferência de seus bens para instituições de caridade ou outras causas?",
+    "options": [
+      "Doação de órgãos",
+      "Doação de sangue",
+      "Doação de alimentos",
+      "Doação testamentária"
+    ],
+    "answer":"Doação testamentária"
+  },
+  {
+    "question":"5 -Qual é a definição de empatia?",
+    "options": [
+      "Sentir pena dos outros",
+      "Colocar-se no lugar do outro e compreender seus sentimentos",
+      "Ser indiferente às emoções alheias",
+      "Julgar os outros com base em suas experiências"
+    ],
+    "answer":"Colocar-se no lugar do outro e compreender seus sentimentos"
+  },
+  {
+    "question":"6 - O que é o voluntariado?",
+    "options": [
+      "Trabalho remunerado em uma empresa",
+      "Atividade realizada por obrigação legal",
+      "Contribuição de tempo e habilidades sem receber pagamento",
+      "Participação em competições esportivas"
+    ],
+    "answer":"Contribuição de tempo e habilidades sem receber pagamento"
+  },
+  {
+    "question":"7 - Qual é a principal característica da caridade?",
+    "options": [
+      "Ação altruísta em benefício dos outros",
+      "Foco exclusivo em ajudar a si mesmo",
+      "Busca por lucro financeiro",
+      "Competição com outras organizações"
+    ],
+    "answer":"Ação altruísta em benefício dos outros"
+  },
+  {
+    "question":"8 - O que significa responsabilidade social empresarial?",
+    "options": [
+      "Cumprir apenas as obrigações legais",
+      "Priorizar os lucros acima de tudo",
+      "Ignorar as necessidades da comunidade",
+      "Considerar o impacto social e ambiental das atividades empresariais"
+    ],
+    "answer":"Considerar o impacto social e ambiental das atividades empresariais"
+  },
+  {
+    "question":"9 - Como as ONGs contribuem para a sustentabilidade do planeta?",
+    "options": [
+      "Promovendo o desperdício de recursos naturais",
+      "Ignorando questões climáticas",
+      "Realizando campanhas de conscientização ambiental",
+      "Focando apenas em lucro financeiro"
+    ],
+    "answer":"Realizando campanhas de conscientização ambiental"
+  },
+  {
+    "question":"10 - Como as doações podem impactar positivamente uma comunidade?",
+    "options": [
+      "Aumentando a desigualdade",
+      "Apoiando projetos sociais e melhorando a qualidade de vida",
+      "Fortalecendo os laços familiares",
+      "Reduzindo a diversidade cultural"
+    ],
+    "answer":"Apoiando projetos sociais e melhorando a qualidade de vida"
+  }
+]
