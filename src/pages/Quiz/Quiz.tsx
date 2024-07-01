@@ -1,5 +1,5 @@
 export function Quiz() {
     return(
-        <h1>Hello World</h1>
+        <h1>Componente principal que gerencia o fluxo do quiz</h1>
     )
 }
